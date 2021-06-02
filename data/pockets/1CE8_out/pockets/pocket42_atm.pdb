@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    42:
+HEADER 0  - Pocket Score                      : -0.1875
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 3.9677
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4827
+HEADER 5  - Mean B-factor of pocket residues  : 0.3800
+HEADER 6  - Hydrophobicity Score              : 9.9000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 380.2866
+HEADER 10  -Pocket volume (convex hull)       : 36.2496
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0286
+ATOM   4279  OE2 GLU A 552      43.666  50.877  86.257  0.52  7.50           O 0
+HETATM44492  OXT ORN A5014      46.950  48.022  92.473  0.00  0.00           O 0
+ATOM   4263  OE1 GLU A 550      45.002  54.388  88.147  0.63  9.64           O 0
+ATOM   4128   CB ALA A 534      39.351  49.774  90.308  0.00  0.00           C 0
+ATOM   4262   CD GLU A 550      46.179  54.929  88.296  0.00  0.00           C 0
+ATOM   4264  OE2 GLU A 550      46.635  55.249  89.378  0.00  0.00           O 0
+ATOM   4277   CD GLU A 552      44.462  49.896  85.934  0.00  0.00           C 0
+ATOM   4261   CG GLU A 550      46.934  55.102  87.010  0.00  0.00           C 0
+ATOM   4268    O CYS A 551      49.375  52.145  85.159  0.00  0.00           O 0
+HETATM44491    O ORN A5014      45.724  46.236  92.059  0.79  7.50           O 0
+ATOM   4292  ND2 ASN A 554      51.276  48.631  87.869  0.52  8.75           N 0
+HETATM44489   NE ORN A5014      48.159  46.695  87.903  0.86  4.37           N 0
+ATOM   4276   CG GLU A 552      45.806  50.365  85.453  0.00  0.00           C 0
+ATOM   4272   CA GLU A 552      48.200  49.660  84.900  0.00  0.00           C 0
+ATOM   4275   CB GLU A 552      46.786  49.193  85.308  0.00  0.00           C 0
+ATOM   4127    O ALA A 534      39.296  48.987  93.005  0.30  7.50           O 0
+ATOM   4278  OE1 GLU A 552      44.161  48.710  86.024  0.58  5.36           O 0
+ATOM   4160  CG2 THR A 538      44.598  43.521  89.135  0.00  0.00           C 0
+ATOM   4150   CA ALA A 537      43.260  44.979  93.877  0.00  0.00           C 0
+ATOM   4153   CB ALA A 537      44.424  45.150  94.834  0.00  0.00           C 0
+ATOM   4149    N ALA A 537      42.029  45.125  94.579  0.66  2.19           N 0
+ATOM   4105  OD2 ASP A 530      39.758  46.272  88.463  0.22  4.29           O 0
+ATOM   4141    O PHE A 536      40.758  45.167  92.712  0.74  2.14           O 0
+TER
+END

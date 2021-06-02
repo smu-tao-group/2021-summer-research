@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1386
+HEADER 1  - Drug Score                        : 0.0193
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7597
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3953
+HEADER 5  - Mean B-factor of pocket residues  : 0.5422
+HEADER 6  - Hydrophobicity Score              : 38.8182
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6364
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.4518
+HEADER 10  -Pocket volume (convex hull)       : 6.9158
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   2851  CD1 ILE A 378       9.852  16.674  86.944  0.00  0.00           C 0
+ATOM   3319   SG CYS A 440       9.846  14.879  91.730  0.00  0.00           S 0
+ATOM   1784   CG MET A 238      10.480  11.668  88.236  0.00  0.00           C 0
+HETATM13918   S1 SF4 A 466      12.363  11.902  91.083  0.00  0.00           S 0
+ATOM   2926    O THR A 388      16.197  13.506  89.246  0.33  6.43           O 0
+ATOM   1786   CE MET A 238      10.151  12.987  85.960  0.00  0.00           C 0
+ATOM   2631  CG2 VAL A 349      13.341  17.530  84.137  0.00  0.00           C 0
+ATOM   2850  CG2 ILE A 378      11.210  18.632  88.893  0.00  0.00           C 0
+ATOM   2942  CG2 THR A 390      18.159  18.527  87.942  0.00  0.00           C 0
+ATOM   2977  CD1 LEU A 394      13.962  21.199  90.439  0.00  0.00           C 0
+ATOM   2978  CD2 LEU A 394      15.112  21.066  88.222  0.00  0.00           C 0
+ATOM   3318   CB CYS A 440      10.840  16.245  92.323  0.00  0.00           C 0
+ATOM   2630  CG1 VAL A 349      14.999  19.084  85.206  0.00  0.00           C 0
+ATOM   2860    O HIS A 380      12.805  18.759  92.817  0.63  1.07           O 0
+ATOM   2874    N CYS A 382      15.580  16.196  93.785  0.59  6.56           N 0
+ATOM   2868   CA PRO A 381      15.339  18.565  94.180  0.00  0.00           C 0
+ATOM   2936    N THR A 390      19.441  16.200  89.589  0.44  2.19           N 0
+ATOM   2878   CB CYS A 382      15.376  13.904  92.990  0.00  0.00           C 0
+TER
+END

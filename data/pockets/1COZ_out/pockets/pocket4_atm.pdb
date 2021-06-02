@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : -0.0429
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1796
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7146
+HEADER 5  - Mean B-factor of pocket residues  : 0.3782
+HEADER 6  - Hydrophobicity Score              : 34.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 295.4589
+HEADER 10  -Pocket volume (convex hull)       : 12.0468
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM    890   CB GLN A 105      33.871  19.612   1.858  0.00  0.00           C 0
+ATOM    697  CG1 ILE A  82      34.118  13.491   0.706  0.00  0.00           C 0
+ATOM    690  CG2 ILE A  81      33.456  17.709  -1.694  0.00  0.00           C 0
+ATOM    889    O GLN A 105      36.189  20.883   0.293  0.54  7.50           O 0
+ATOM    693   CA ILE A  82      34.919  13.414  -1.681  0.00  0.00           C 0
+ATOM    695    O ILE A  82      36.622  12.572  -3.130  0.50  2.14           O 0
+ATOM    724  OD1 ASN A  85      39.818  13.827  -3.477  0.00  0.00           O 0
+ATOM    698  CG2 ILE A  82      35.615  11.590  -0.042  0.00  0.00           C 0
+ATOM    722   CB ASN A  85      39.472  15.163  -5.429  0.00  0.00           C 0
+ATOM    719   CA ASN A  85      38.026  15.543  -5.116  0.00  0.00           C 0
+ATOM    740  OD1 ASP A  87      40.208  21.358  -4.644  0.00  0.00           O 0
+ATOM    887   CA GLN A 105      34.753  20.814   2.175  0.00  0.00           C 0
+ATOM    891   CG GLN A 105      33.476  18.787   3.040  0.00  0.00           C 0
+ATOM    721    O ASN A  85      38.535  17.609  -6.183  0.65  3.21           O 0
+ATOM    687    O ILE A  81      35.114  15.688  -3.335  0.68  2.14           O 0
+ATOM    729    O ILE A  86      36.392  19.706  -3.837  0.53  5.36           O 0
+ATOM    720    C ASN A  85      37.687  16.901  -5.653  0.00  0.00           C 0
+TER
+END
