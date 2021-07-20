@@ -5,5 +5,5 @@ For this project, I was tasked with the objective of coding a program that extra
 
 **How to Run**
 
-* The code can be tested through the test.pu folder
+* The code can be tested through the test.py folder
 * This tests the beginning and end of the resultant array against the expected values :)
